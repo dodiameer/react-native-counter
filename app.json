@@ -17,7 +17,12 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+        "bundleIdentifier": "com.dodiameer.counter",
+        "buildNumber": "1.0.0"
+    },
+    "android": {
+    "package": "com.dodiameer.counter",
+    "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
